@@ -19,7 +19,7 @@ import fs from 'fs';
 const messageHistories = {};
 
 // Input data and paths
-const instructionsFile = "jh_instructions";
+const instructionsFile = "instructions";
 const txtPath = `./public/docs/${instructionsFile}.txt`;
 const VECTOR_STORE_PATH = `${instructionsFile}.index`;
 

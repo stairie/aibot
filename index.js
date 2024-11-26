@@ -296,40 +296,7 @@ async function getConversation(data, isGPT = false){
     retval.key = `${data.topic}:${data.subtopic}`;
     retval.thread = "";
     retval.last_message = "";
-    if(isGPT){
-        const profile = await loadProfile();
-        retval.messages = [
-            {
-               role: "system",
-               message: `Caregiver's name is ${data.name}`,
-               ignore: true
-           },           
-            {
-                role: "system",
-                message: `These are the patient details in JSON format: ${JSON.stringify(profile)}`,
-                ignore: true
-            },
-           {
-               role: "system",
-               message: `The theme is Topic: ${data.topic}, Sub-topic: ${data.subtopic}`,
-               ignore: true
-           }
-       ];
-    }else{
-        retval.messages = [
-             {
-                role: "system",
-                message: `Caregiver's name is ${data.name}`,
-                ignore: true
-            },
-            {
-                role: "system",
-                message: `The theme is Topic: ${data.topic}, Sub-topic: ${data.subtopic}`,
-                ignore: true
-            }
-        ];
-    }
-    //retval.messages = [];
+    retval.messages = [];
     retval.initialized = true;
     return retval;
 }
