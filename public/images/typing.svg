@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" style="margin: auto; display: block; shape-rendering: auto; background: none;" width="280" height="83" preserveAspectRatio="xMidYMid">
+<style type="text/css">
+  text {
+    text-anchor: middle; font-size: 79px; opacity: 0;
+  }
+</style>
+<g style="transform-origin: 140px 41.5px 0px; transform: scale(1.43636);">
+<g transform="translate(140,41.5)">
+  <g transform="translate(0,0)"><g class="path" style="opacity: 1; transform-origin: -9.40668px -0.775px 0px; animation: 1s linear -0.346667s infinite normal forwards running blink-43784ddc-f29c-43a0-bb1e-4cc3ffc6594c;"><path d="M2.81-3.25L2.81-3.25L2.81-3.25Q2.81-4.57 3.74-5.53L3.74-5.53L3.74-5.53Q4.67-6.49 6.05-6.49L6.05-6.49L6.05-6.49Q7.48-6.49 8.47-5.53L8.47-5.53L8.47-5.53Q9.46-4.57 9.46-3.25L9.46-3.25L9.46-3.25Q9.46-1.87 8.47-0.94L8.47-0.94L8.47-0.94Q7.48 0 6.05 0L6.05 0L6.05 0Q4.67 0 3.74-0.94L3.74-0.94L3.74-0.94Q2.81-1.87 2.81-3.25" fill="#1d0e0b" stroke="none" stroke-width="none" transform="translate(-15.541679382324219,2.47)" style="fill: rgb(29, 14, 11);"></path></g><g class="path" style="opacity: 1; transform-origin: 2.80332px -0.775px 0px; animation: 1s linear -0.173333s infinite normal forwards running blink-43784ddc-f29c-43a0-bb1e-4cc3ffc6594c;"><path d="M15.02-3.25L15.02-3.25L15.02-3.25Q15.02-4.57 15.95-5.53L15.95-5.53L15.95-5.53Q16.89-6.49 18.26-6.49L18.26-6.49L18.26-6.49Q19.69-6.49 20.68-5.53L20.68-5.53L20.68-5.53Q21.67-4.57 21.67-3.25L21.67-3.25L21.67-3.25Q21.67-1.87 20.68-0.94L20.68-0.94L20.68-0.94Q19.69 0 18.26 0L18.26 0L18.26 0Q16.89 0 15.95-0.94L15.95-0.94L15.95-0.94Q15.02-1.87 15.02-3.25" fill="#1d0e0b" stroke="none" stroke-width="none" transform="translate(-15.541679382324219,2.47)" style="fill: rgb(29, 14, 11);"></path></g><g class="path" style="opacity: 1; transform-origin: 15.0133px -0.775px 0px; animation: 1s linear 0s infinite normal forwards running blink-43784ddc-f29c-43a0-bb1e-4cc3ffc6594c;"><path d="M27.23-3.25L27.23-3.25L27.23-3.25Q27.23-4.57 28.16-5.53L28.16-5.53L28.16-5.53Q29.10-6.49 30.47-6.49L30.47-6.49L30.47-6.49Q31.90-6.49 32.89-5.53L32.89-5.53L32.89-5.53Q33.88-4.57 33.88-3.25L33.88-3.25L33.88-3.25Q33.88-1.87 32.89-0.94L32.89-0.94L32.89-0.94Q31.90 0 30.47 0L30.47 0L30.47 0Q29.10 0 28.16-0.94L28.16-0.94L28.16-0.94Q27.23-1.87 27.23-3.25" fill="#1d0e0b" stroke="none" stroke-width="none" transform="translate(-15.541679382324219,2.47)" style="fill: rgb(29, 14, 11);"></path></g></g>
+</g>
+</g>
+<style id="blink-43784ddc-f29c-43a0-bb1e-4cc3ffc6594c" data-anikit="">@keyframes blink-43784ddc-f29c-43a0-bb1e-4cc3ffc6594c {
+  0% { opacity: 1; }
+  49.75% { opacity: 1; }
+  50.25% { opacity: 0; }
+  99.5% { opacity: 0; }
+  100% { opacity: 1; }
+}</style></svg>

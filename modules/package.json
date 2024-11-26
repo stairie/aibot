@@ -1,0 +1,8 @@
+{
+    "type": "module",
+    "target": "ES2020",
+    "files": [
+        "trainer.js",
+        "groqtrainer.js"
+    ]
+}
